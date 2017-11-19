@@ -61,7 +61,7 @@ Find My Hash uses the internet to connect to various Databases around the net. T
 
 To use Find My Hash type findmyhash from a terminal.
 
-# findmyhash
+>>findmyhash
 
 > (Free Password Hash Cracker: https://crackstation.net/)
 
