@@ -2,6 +2,10 @@
 
 Injection attacks refer to a broad class of attack vectors that allow an attacker to supply untrusted input to a program, which gets processed by an interpreter as part of a command or query which alters the course of execution of that program
 
+
+"{ Manual SQL Injection, John the Ripper }" 
+Source link:https://www.computersecuritystudent.com/SECURITY_TOOLS/DVWA/DVWAv107/lesson6/index.html
+
 What is Damn Vulnerable Web App (DVWA)?
 Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
